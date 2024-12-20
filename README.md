@@ -4,6 +4,9 @@
 A modern React application for managing tasks and employee information, built with React, Redux Toolkit, and Tailwind CSS.
 
 # Live Preview- https://creative-marzipan-ddb297.netlify.app
+![Screenshot 2024-12-20 142010](https://github.com/user-attachments/assets/5a970d30-49a8-4f3a-a972-63faf8db73c6)
+![Screenshot 2024-12-20 141942](https://github.com/user-attachments/assets/4d088260-f7ff-4c4a-9d02-a0eb97abe324)
+
 
 ## Features
 
